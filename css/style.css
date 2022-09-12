@@ -1,0 +1,23 @@
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: orange;
+    background-size: cover;
+    margin: -8px;
+}
+
+.top-img{
+    /* margin-top: 10px; */
+}
+.nav-bar{
+    margin-top: 35px;
+    margin-left: 200px;
+}
+.nav-bar a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    float: left;
+}
