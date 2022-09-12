@@ -39,5 +39,10 @@ body{
 
 .header-msg h1 span{
     background-color: white;
-    padding: 5px;
+    padding: 10px;
+}
+
+.img1 img, .img2 img, .img3 img {
+    max-width: 200px;
+    max-height: auto;
 }
