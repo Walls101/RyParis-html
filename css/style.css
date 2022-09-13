@@ -42,7 +42,18 @@ body{
     padding: 10px;
 }
 
-.img1 img, .img2 img, .img3 img {
+.second{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: large;
+}
+
+.cat-img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.img1 img, .img2 img{
     max-width: 200px;
     max-height: auto;
 }
